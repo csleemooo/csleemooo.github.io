@@ -1,0 +1,7 @@
+tmp/
+node_modules/
+.sites-runtime/
+.env
+.env.*
+!.env.example
+assets/*.pdf
